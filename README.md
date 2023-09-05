@@ -1,5 +1,5 @@
 ### 😎 Obrigado por visitar o meu perfil do GitHub!
-em construção 
+Em manutenção 
 
 <div>
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
