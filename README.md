@@ -1,9 +1,7 @@
 <h1 align = "center">Ramon Souza Godim💻 </h1>
 - 🎓 Analise e desenvolvimento de sistemas <br>
 - 🚀 Programador e desenvolvedor  <br>
-- ❤ Amor Imenso por cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮 <br>
-- 📊<a target="_blank" href="https://github.com> Certificados </a> <br>
-- 💻<a target="_blank" href="https:///"> Pequeno Projeto </a> <br>
+- ❤ Amor cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮 <br>
 
 ## Habilidades principais:
 <div style="display: inline_block">
@@ -22,17 +20,17 @@
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="450" height="1">
 </p>
 <div>
-  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Rapha29&show_icons=true&theme=midnight-purple" />
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rapha29&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "Rapha29" />
+  <img align="left" width="47%" height="100%" src="https://github-readme-stats.vercel.app/api?username=kxk26&show_icons=true&theme=midnight-purple" />
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kxk26&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt = "kxk26" />
 </div>
 <div> 
-  <a href="https://www.instagram.com/ramonsz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ramonsz26/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:rmsouza87@outlook.com" target="_blank">
         <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
 <br><p align="centre"><b>Você é meu visitante nº</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rapha29}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kxk26}/count.svg" /></p> 
 <br>
 </div>
