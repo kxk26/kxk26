@@ -1,7 +1,27 @@
 <h1 align = "center">Ramon Souza Godim💻 </h1>
-- 🎓 Analise e desenvolvimento de sistemas <br>
-- 🚀 Programador e desenvolvedor  <br>
-- ❤ Amor cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮 <br>
+# Olá, sou Ramon Souza Godim!
+
+## Sobre Mim
+- 👨‍👩‍👦 Amo minha família e passar tempo com eles. <br>
+- 🎮 Sou um entusiasta de jogos.
+- 🚗 Adoro carros e motos, e estou sempre explorando o mundo automotivo.
+- ✈️ Amo viajar e descobrir novos lugares.
+- 💻 Atualmente, estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas.
+- 🌐 Sou apaixonado por tecnologia e estou sempre em busca de aprender mais.
+
+## Minhas Habilidades
+- 💼 Desenvolvimento de Software
+- 🌐 Desenvolvimento Web
+- 📱 Desenvolvimento de Aplicativos Móveis
+
+## Projetos Destacados
+- [Nome do Projeto 1](link_do_projeto_1) - Descrição breve do projeto.
+- [Nome do Projeto 2](link_do_projeto_2) - Descrição breve do projeto.
+- [Nome do Projeto 3](link_do_projeto_3) - Descrição breve do projeto.
+
+## Entre em Contato
+- 💬 Você pode me encontrar no [LinkedIn](link_do_seu_perfil_do_LinkedIn).
+- 📧 Me envie um email em [seu@email.com](mailto:seu@email.com).
 
 ## Habilidades principais:
 <div style="display: inline_block">
