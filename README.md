@@ -20,8 +20,8 @@
 - [Nome do Projeto 3](link_do_projeto_3) - Descrição breve do projeto.
 
 ## Entre em Contato
-- 💬 Você pode me encontrar no [LinkedIn](link_do_seu_perfil_do_LinkedIn).
-- 📧 Me envie um email em [seu@email.com](mailto:seu@email.com).
+- 💬 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ramon-souza-915329198/).
+- 📧 Me envie um email em [rmsouza87@outlook.com](rmsouza87@outlook.com).
 
 ## Habilidades principais:
 <div style="display: inline_block">
