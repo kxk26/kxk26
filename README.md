@@ -1,9 +1,9 @@
 <h1 align = "center">Ramon Souza Godim💻 </h1>
-# Olá, sou Ramon Souza Godim!
+# Hi, I an Ramon Souza Godim!
 
 ## Sobre Mim
 - 👨‍👩‍👦 Amo minha família e passar tempo com eles. <br>
-- 🎮 Sou um entusiasta de jogos.
+- 🎮 Gosto de jogos.
 - 🚗 Adoro carros e motos, e estou sempre explorando o mundo automotivo.
 - ✈️ Amo viajar e descobrir novos lugares.
 - 💻 Atualmente, estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas.
